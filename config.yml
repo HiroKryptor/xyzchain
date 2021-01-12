@@ -12,3 +12,4 @@ genesis:
     staking:
       params:
         bond_denom: "xyz"
+        max_validators: "2"
